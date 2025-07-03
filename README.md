@@ -40,8 +40,9 @@ Clears the terminal from the current line and redraws the borders with the origi
 
 1. **Clone or download this repository:**
 
-``bash
+```bash
 git clone https://github.com/your-user/ANSIstyle-Dev-Kit.git
+```
 
 2. **Include the ADK files in your project in C:**
 
@@ -49,13 +50,15 @@ git clone https://github.com/your-user/ANSIstyle-Dev-Kit.git
 
 3. **Include the ADK header in your code:**
 
-``bash
+```bash
 #include "adk.h"
+```
 
 4.**Configure the terminal with the command below at the beginning of the main function:**
 
-``bash
+```bash
 system("mode con: cols=80 lines=25"); // Formats the terminal for the expected layout
+```
 
 5.**Compile your project normally**
 
