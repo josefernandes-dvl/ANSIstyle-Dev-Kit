@@ -76,7 +76,7 @@ This project was created for educational purposes and is available for free. Fee
 ## 👨‍💻 Authors
 * José Fernandes Santana Neto
 * Rafael Augusto da Silva Januário
-### Project developed for the Introduction to Programming course – UFG (2025/1)
+** Project developed for the Introduction to Programming course – UFG (2025/1)**
 
 ## Example - Registration and Login System ChaveMestre
 
