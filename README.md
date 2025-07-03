@@ -64,11 +64,10 @@ system("mode con: cols=80 lines=25"); // Formats the terminal for the expected l
 
 ## 💡 Why use the ADK?
 
-* Brings style to programs created in the terminal
+* Brings style to programs created in the terminal.
 * Works cross-platform.
-
-* Facilitates positioning and organization of interfaces
-* It is simple, lightweight and straight to the point
+* Facilitates positioning and organization of interfaces.
+* It is simple, lightweight and straight to the point.
 
 ## 📄 License
 
