@@ -75,6 +75,6 @@ system("mode con: cols=80 lines=25"); // Formats the terminal for the expected l
 This project was created for educational purposes and is available for free. Feel free to study, modify and use it.
 
 ## 👨‍💻 Authors
-José Fernandes Santana Neto
-Rafael Augusto da Silva Januário
+* José Fernandes Santana Neto
+* Rafael Augusto da Silva Januário
 Project developed for the Introduction to Programming course – UFG (2025/1)
