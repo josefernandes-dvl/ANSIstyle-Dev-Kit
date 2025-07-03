@@ -46,7 +46,7 @@ git clone https://github.com/your-user/ANSIstyle-Dev-Kit.git
 
 2. **Include the ADK files in your project in C:**
 
-### Copy the ADK .c and .h files to your project directory.
+* Copy the ADK .c and .h files to your project directory.
 
 3. **Include the ADK header in your code:**
 
