@@ -2,7 +2,7 @@
 
 The **ANSIstyle Dev Kit** is a small collection of C functions that makes it easier to apply **ANSI** commands for terminal styling. Developed to make terminal programs more dynamic, organized and visually pleasing, even in a minimalist environment like C.
 
-> 🔧 Created as part of an academic project in the Information Systems course, the ChaveMestre Registration and Login System, the ADK seeks to offer **style and visual interaction** to C programs that run in the terminal — something rare, but powerful!
+> 🔧 Created as part of an academic project in the Informational Systems course, the ChaveMestre Registration and Login System, the ADK seeks to offer **style and visual interaction** to C programs that run in the terminal — something rare, but powerful!
 
 ---
 
@@ -81,4 +81,4 @@ This project was created for educational purposes and is available for free. Fee
 
 ## Example - Registration and Login System ChaveMestre
 
-
+<img src = "https://github.com/user-attachments/assets/2ef85eba-051c-4a06-a1da-21eec65761ec"  width="720">
