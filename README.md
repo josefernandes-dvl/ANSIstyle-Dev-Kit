@@ -2,13 +2,13 @@
 
 The **ANSIstyle Dev Kit** is a small collection of C functions that makes it easier to apply **ANSI** commands for terminal styling. Developed to make terminal programs more dynamic, organized and visually pleasing, even in a minimalist environment like C.
 
-## ❓ What are ANSI Commands?
-
-ANSI commands are special codes used to control terminal behavior. They follow the ANSI Escape Codes standard, which are sequences starting with \033[ (or \x1b[), followed by numbers and letters that indicate the desired action. **However, their use has a complex syntax that is not very efficient and adaptable, motivating the creation of this collection.**
-
 > 🔧 Created as part of an academic project in the Information Systems course, the ChaveMestre Registration and Login System, the ADK seeks to offer **style and visual interaction** to C programs that run in the terminal — something rare, but powerful!
 
 ---
+
+## ❓ What are ANSI Commands?
+
+ANSI commands are special codes used to control terminal behavior. They follow the ANSI Escape Codes standard, which are sequences starting with \033[ (or \x1b[), followed by numbers and letters that indicate the desired action. **However, their use has a complex syntax that is not very efficient and adaptable, motivating the creation of this collection.**
 
 ## ✨ Features
 
@@ -77,4 +77,4 @@ This project was created for educational purposes and is available for free. Fee
 ## 👨‍💻 Authors
 * José Fernandes Santana Neto
 * Rafael Augusto da Silva Januário
-Project developed for the Introduction to Programming course – UFG (2025/1)
+### Project developed for the Introduction to Programming course – UFG (2025/1)
